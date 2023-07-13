@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Suitmedia</string>
+    <string name="font_family_poppins">poppins</string>
+    <string name="palindrom_hint">Palindrome</string>
+    <string name="name_hint">Name</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="choose">Choose a User</string>
 </resources>
